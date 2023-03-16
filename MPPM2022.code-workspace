@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local",
+		"cSpell.userWords": [
+			"gridrival",
+			"porra"
+		],
+		"cSpell.ignoreWords": [
+			"mppm",
+			"scipy",
+			"SLSQP",
+			"arange"
+		]
+	}
+}
